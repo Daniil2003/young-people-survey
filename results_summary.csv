@@ -1,0 +1,7 @@
+,Accuracy,Balanced accuracy,CV accuracy
+Dummy (most_frequent),0.592,0.5,0.591
+Logistic Regression,0.91,0.911,0.924
+Decision Tree,0.876,0.868,0.869
+Random Forest,0.94,0.933,0.945
+Extra Trees,0.91,0.902,0.935
+Gradient Boosting,0.925,0.918,0.946
